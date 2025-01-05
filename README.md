@@ -39,12 +39,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jotacraq&show_icons=true&count_private=true&theme=dark&hide_title=true&bg_color=1e1e1e&text_color=F4A300" alt="GitHub Stats" width="400px" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotacraq&theme=dark&bg_color=1e1e1e&text_color=F4A300" alt="Top Languages" width="400px" height="200px" />
-</div> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jotacraq&show_icons=true&count_private=true&theme=dark&hide_title=true&bg_color=1e1e1e&text_color=66CCFF" alt="GitHub Stats" width="400px" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotacraq&theme=dark&bg_color=1e1e1e&text_color=66CCFF" alt="Top Languages" width="400px" height="200px" />
+</div>
+
 
 
 
