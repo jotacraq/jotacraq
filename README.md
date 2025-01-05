@@ -4,6 +4,8 @@
 <h1 align="center">Hi there, im jotacraq!</h1>
 <h3 align="center">Front and Back End Developer</h3>
 
+<br>
+
 - 🔭 I’m currently **Free Agent**
 - 🌱 I’m currently learning **Java, Python and JavaScript**
 - 👨‍💻 All of my projects are available at **https://github.com/jotacraq**
