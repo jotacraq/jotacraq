@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/06/00/fd/0600fd7e487877caf3d82bd268e8ccf7.gif" alt="GIF" width="400"/>
+  <img src="https://i.pinimg.com/originals/13/37/16/13371689a7b10746551a95d6ef211ccc.gif" alt="GIF" width="400"/>
 </p>
 
 <h1 align="center">Hi there, I'm Jotacraq!</h1>
