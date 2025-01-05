@@ -5,15 +5,13 @@
 <h1 align="center">Hi there, I'm Jotacraq!</h1>
 <h3 align="center">Frontend & Backend Developer</h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/91/b7/75/91b7752735d39fee563702543b548ba8.jpg" alt="Profile Picture" width="150" style="border-radius: 50%; border: 3px solid #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"/>
-</p>
+<br>
 
- - 🔭 I’m currently a **Free Agent**<br>
- - 🌱 Learning **Java, JavaScript**<br>
- - 👨‍💻 All my projects are available at <a href="https://github.com/jotacraq" target="_blank">GitHub</a><br>
- - 💬 Ask me about **HTML, CSS, JavaScript**<br>
- - 🗣️ Languages: **PT / EN**<br>
+ - 🔭 I’m currently a **Free Agent**
+ - 🌱 Learning **Java, JavaScript**
+ - 👨‍💻 All my projects are available at <a href="https://github.com/jotacraq" target="_blank">GitHub</a>
+ - 💬 Ask me about **HTML, CSS, JavaScript**
+ - 🗣️ Languages: **PT / EN**
  - 📫 Reach me at: <a href="mailto:dev.jotacraq@gmail.com">dev.jotacraq@gmail.com</a>
 
 ### 🛠️ Languages and Tools
