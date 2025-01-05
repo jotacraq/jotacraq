@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Java, Python and JavaScript**
 - 👨‍💻 All of my projects are available at **https://github.com/jotacraq**
 - 💬 Ask me about **HTML, CSS, JavaScript**
-- 🗣️ Languages **PT / ES**
+- 🗣️ Languages **PT / EN**
 - 📫 How to reach me: **dev.jotacraq@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
