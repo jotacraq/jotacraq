@@ -7,8 +7,8 @@
 
 <br>
 
- - 🔭 I’m currently a **Free Agent**
- - 🌱 Learning **Java, JavaScript**
+ - 🔭 I’m currently a **Freelancer**
+ - 🌱 Learning **JavaScript and PHP**
  - 👨‍💻 All my projects are available at <a href="https://github.com/jotacraq" target="_blank">GitHub</a>
  - 💬 Ask me about **HTML, CSS, JavaScript**
  - 🗣️ Languages: **PT / EN**
