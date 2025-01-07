@@ -8,7 +8,7 @@
 <br>
 
  - 🔭 I’m currently a **Freelancer**
- - 🌱 Learning **JavaScript and PHP**
+ - 🌱 Learning **JavaScript and TypeScript**
  - 👨‍💻 All my projects are available at <a href="https://github.com/jotacraq" target="_blank">GitHub</a>
  - 💬 Ask me about **HTML, CSS, JavaScript**
  - 🗣️ Languages: **PT / EN**
