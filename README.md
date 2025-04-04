@@ -12,7 +12,7 @@
  - 👨‍💻 All my projects are available at <a href="https://github.com/jotacraq" target="_blank">GitHub</a>
  - 💬 Ask me about **HTML, CSS, JavaScript**
  - 🗣️ Languages: **PT / EN**
- - 📫 Reach me at: <a href="mailto:dev.jotacraq@gmail.com">dev.jotacraq@gmail.com</a>
+ - 📫 Reach me at: <a href="mailto:dev.jotacraq1@gmail.com">dev.jotacraq@gmail.com</a>
 
 ### 🛠️ Languages and Tools
 
