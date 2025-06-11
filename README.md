@@ -7,10 +7,10 @@
 
 <br>
 
- - 🔭 I’m currently a **Freelancer**
- - 🌱 Learning **JavaScript and TypeScript**
+ - 🔭 I’m currently a **Free Agent**
+ - 🌱 Learning **Java**
  - 👨‍💻 All my projects are available at <a href="https://github.com/jotacraq" target="_blank">GitHub</a>
- - 💬 Ask me about **HTML, CSS, JavaScript**
+ - 💬 Ask me about **HTML, CSS, JavaScript, Java, MySQL**
  - 🗣️ Languages: **PT / EN**
  - 📫 Reach me at: <a href="mailto:dev.jotacraq1@gmail.com">dev.jotacraq@gmail.com</a>
 
